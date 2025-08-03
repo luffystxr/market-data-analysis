@@ -1,3 +1,4 @@
+````markdown
 # Market Data Analysis
 
 Collected crypto price data using Binance API. Performed Exploratory Data Analysis (EDA) to identify trends and volatility. Implemented simple moving average (SMA) backtesting. This project demonstrates trading API integration and time-series data handling in Python and Jupyter Notebook.
@@ -29,15 +30,23 @@ Collected crypto price data using Binance API. Performed Exploratory Data Analys
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/luffystxr/market-data-analysis.git
-   cd market-data-analysis 
+   cd market-data-analysis
+````
 
 2. **Install Dependencies**
 
-```bash
+   ```bash
    pip install -r requirements.txt
+   ```
 
-3. **Run the Data Fetch Script**
+3. **Run the analysis**
 
-```bash
-python src/data_fetch.py
+   ```bash
+   jupyter notebook notebooks/market_analysis.ipynb
+   ```
 
+```
+
+---
+
+```

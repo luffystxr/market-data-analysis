@@ -29,4 +29,15 @@ Collected crypto price data using Binance API. Performed Exploratory Data Analys
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/luffystxr/market-data-analysis.git
-   cd market-data-analysis
+   cd market-data-analysis 
+
+2. **Install Dependencies**
+
+```bash
+   pip install -r requirements.txt
+
+3. **Run the Data Fetch Script**
+
+```bash
+python src/data_fetch.py
+

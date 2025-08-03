@@ -44,5 +44,3 @@ Collected crypto price data using Binance API. Performed Exploratory Data Analys
    ```bash
    jupyter notebook notebooks/market_analysis.ipynb
    ```
-
-```
